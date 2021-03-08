@@ -1,3 +1,10 @@
-from django.contrib import admin
+import csv, io 
+import pandas as pd 
 
-# Register your models here.
+from django import forms
+from django.contrib import admin
+from django.shortcuts import render, redirect
+from django.urls import path
+
+#from .models import 
+
