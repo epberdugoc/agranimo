@@ -1,7 +1,5 @@
-Django==3.1.1
-django-filter==2.3.0
-djangorestframework==3.11.1
-pandas==1.1.1
-phonenumbers==8.12.9
-python-dotenv
-mysqlclient
+pymongo==3.11.3
+psycopg2==2.8.6
+SQLAlchemy==1.3.18
+pandas==1.0.5
+dnspython==1.16.0
